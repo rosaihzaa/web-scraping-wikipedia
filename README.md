@@ -1,4 +1,4 @@
-# web-scraping-wikipedia
+# Web Scraping Wikipedia
 Extracted data on Indonesian governors from Wikipedia using BeautifulSoup, parsing and structuring the information for further analysis or storage.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12rfYeCEZj6TlCpPiOTYY9AC54NRHYBm8?usp=sharing)
